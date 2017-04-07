@@ -25,13 +25,13 @@
 ########################################
 
 # Strap script vars
-export STRAP_GIT_NAME='Jody Lent'
-export STRAP_GIT_EMAIL='jodylent@gmail.com'
-export STRAP_GITHUB_USER='jodylent'
+export STRAP_GIT_NAME='Jacob Tomaw'
+export STRAP_GIT_EMAIL='jacob.tomaw@gmail.com'
+export STRAP_GITHUB_USER='flatiron32'
 export STRAP_GITHUB_TOKEN='I copy my ssh key and use ssh, not https'
 export COMPANY_REPOMGMT_URL='gitbucket.yourcompany.com'
 
 # Subscript vars
-export NEW_HOSTNAME='jlent-mbp'
+#export NEW_HOSTNAME='jlent-mbp'
 
 ########################################
