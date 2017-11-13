@@ -80,7 +80,7 @@ fi
 mkdir -p /tmp/strap
 
 # Clone strap
-git clone https://github.com/mikemcquaid/strap /tmp/strap
+git clone https://github.com/flatiron32/strap /tmp/strap
 
 # Strap customizations -- I do  not use the GitHub tokenm, I copy in my ssh keys pre-run
 sed -i -e "s/DOTFILES_URL=\"https:\/\//DOTFILES_URL=\"ssh:\/\/git@/g"                   /tmp/strap/bin/strap.sh
