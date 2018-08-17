@@ -12,7 +12,7 @@ We want our Macs to be tools--fungible, flexible and easily rebuilt--and this is
 	* THERE HAS GOT TO BE A BETTER WAY TO DO THIS
 * Clone this repo:
 
-		git clone https://github.com/jodylent/project-show-animal.git
+		git clone https://github.com/flatiron32/project-show-animal.git
 
 * Set up any cloud storage used by your dotfiles repo(s).
 * Sign into iCloud (if you use [mas](https://github.com/mas-cli/mas) to automate Mac App Store)
